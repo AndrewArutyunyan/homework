@@ -1,0 +1,4 @@
+cols:
+  ['set 1', ['CS1_PRC', 'CS2_PRC', 'CS3_PRC', 'CS4_PRC']]
+meths: 
+  ['pca'] 
